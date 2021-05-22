@@ -1,0 +1,27 @@
+#game {
+  height: 300px;
+  width: 100%;
+  border: 5px solid red;
+  /* background-image: url("https://www.obilisk.co/wp-content/uploads/2018/10/Tundra-Man-Snow-Flakes-980x551.jpg"); */
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#sprite1 {
+  position: fixed;
+  top: 100px;
+  left: 10px;
+  /* height will be dynamically set per fram */
+  height: 42px;
+  /* width will be dynamically set per fram */
+  width: 27px;
+  outline: 1px solid red;
+  background-image: url("https://www.seekpng.com/png/full/182-1828450_megaman-sprite-png-megaman-8-sprite-sheet.png");
+  background-repeat: no-repeat;
+  /* transform will be dynamically set per fram */
+  /* transform: scaleX(-1); */
+  /* background-position-x will be dynamically set per fram */
+  /* background-position-y will be dynamically set per fram */
+  background-position-x: -106px;
+  background-position-y: -219px;
+}

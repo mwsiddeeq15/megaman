@@ -1,0 +1,33 @@
+{
+  "running": [
+    { "top": "-162px", "left": "-46px", "width": "35px", "height": "42px" },
+    { "top": "-162px", "left": "-84px", "width": "36px", "height": "42px" },
+    { "top": "-162px", "left": "-119px", "width": "30px", "height": "42px" },
+    { "top": "-162px", "left": "-148px", "width": "25px", "height": "42px" },
+    { "top": "-162px", "left": "-172px", "width": "33px", "height": "42px" },
+    { "top": "-162px", "left": "-205px", "width": "39px", "height": "42px" },
+    { "top": "-162px", "left": "-246px", "width": "41px", "height": "42px" },
+    { "top": "-162px", "left": "-287px", "width": "37px", "height": "42px" },
+    { "top": "-162px", "left": "-323px", "width": "31px", "height": "42px" },
+    { "top": "-162px", "left": "-353px", "width": "29px", "height": "42px" },
+    { "top": "-162px", "left": "-381px", "width": "27px", "height": "42px" },
+    { "top": "-162px", "left": "-408px", "width": "35px", "height": "42px" },
+    { "top": "-162px", "left": "-442px", "width": "40px", "height": "42px" },
+    { "top": "-162px", "left": "-482px", "width": "42px", "height": "42px" },
+    { "top": "-162px", "left": "-524px", "width": "35px", "height": "42px" },
+    { "top": "-162px", "left": "-561px", "width": "33px", "height": "42px" }
+  ],
+  "jumping": [
+    { "top": "-220px", "left": "-46px", "width": "30px", "height": "42px" },
+    { "top": "-220px", "left": "-76px", "width": "30px", "height": "42px" },
+    { "top": "-219px", "left": "-106px", "width": "27px", "height": "42px" },
+    { "top": "-219px", "left": "-133px", "width": "27px", "height": "42px" },
+    { "top": "-219px", "left": "-160px", "width": "27px", "height": "42px" },
+    { "top": "-219px", "left": "-187px", "width": "27px", "height": "42px" },
+    { "top": "-219px", "left": "-214px", "width": "27px", "height": "42px" },
+    { "top": "-219px", "left": "-241px", "width": "27px", "height": "42px" },
+    { "top": "-219px", "left": "-268px", "width": "27px", "height": "42px" },
+    { "top": "-219px", "left": "-295px", "width": "27px", "height": "42px" },
+    { "top": "-219px", "left": "-322px", "width": "27px", "height": "42px" }
+  ]
+}
